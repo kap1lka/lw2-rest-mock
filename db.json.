@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "frontend_dev",
+      "status": "online",
+      "publicKey": "0x1A2B3C"
+    },
+    {
+      "id": 2,
+      "username": "ui_ux_designer",
+      "status": "offline",
+      "publicKey": "0x9F8E7D"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "HTML5 & CSS3 Layout",
+      "body": "Чиста структура сайтів і форм. Адаптив під будь-які екрани (Flexbox, Grid)."
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "JavaScript & TypeScript",
+      "body": "Робота з асинхронним кодом, запитами та подіями (Fetch, Async/Await)."
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "title": "Макети у Figma",
+      "body": "Малювання сайтів у Figma, побудова швидких ескізів та дизайн-систем."
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "title": "UI Дизайн та Анімації",
+      "body": "Підбір кольорів, шрифтів, сіток та опрацювання різних станів елементів."
+    }
+  ]
+}
